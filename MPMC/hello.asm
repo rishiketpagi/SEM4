@@ -1,2 +1,2 @@
 section .data
- msg db "hello",0
+msg db "hello",0
